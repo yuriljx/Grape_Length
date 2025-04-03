@@ -1,0 +1,1 @@
+Save the target sample pictures directly in this folder.
